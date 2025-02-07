@@ -1,5 +1,5 @@
-import AdminCarCard from "@/components/admin/admincarcard";
-import Sidebar from "@/components/admin/sidebar"; // Ensure this path is correct
+import AdminCarCard from "@/components/admin/admincarcard";// Ensure this path is correct
+import Sidebar from "@/components/admin/sidebar"; 
 
 export default function AdminPage() {
   return (
